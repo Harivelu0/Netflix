@@ -2,8 +2,14 @@
 
 This repository contains a complete DevSecOps pipeline for deploying a Netflix clone application on Azure, implementing security scanning, monitoring, and Kubernetes deployment.
 
-## Project Architecture
-![DevSecOps Architecture](https://placeholder-image-url.com/devsecops-architecture.png)
+![Screenshot 2025-05-01 233101](https://github.com/user-attachments/assets/ce606c5e-a2a6-434f-933f-d95805d6b951)
+![Screenshot 2025-05-04 020519](https://github.com/user-attachments/assets/1692b299-eba6-46aa-a729-48c4a4c78247)
+![Screenshot 2025-05-04 020652](https://github.com/user-attachments/assets/648e4d71-8ee8-44ab-b072-9a0afd7a62bc)
+![Screenshot 2025-05-04 020447](https://github.com/user-attachments/assets/fd13474b-f54e-49fa-b7a9-67c5a876b1b0)
+![Screenshot 2025-05-04 020412](https://github.com/user-attachments/assets/54dec4c5-0533-4dfd-b2f0-3ed23a969156)
+
+![Screenshot 2025-05-04 020355](https://github.com/user-attachments/assets/a2f8df61-81ab-47f1-bb84-8e9604437646)
+
 
 ## Project Overview
 
